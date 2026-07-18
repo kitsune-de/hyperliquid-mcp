@@ -11,7 +11,7 @@
 ### Claude Code
 
 ```bash
-claude mcp add hyperliquid -- npx -y hyperliquid-mcp
+claude mcp add hyperliquid -- npx -y github:kitsune-de/hyperliquid-mcp
 ```
 
 ### Claude Desktop / Cursor / any MCP client
@@ -21,7 +21,7 @@ claude mcp add hyperliquid -- npx -y hyperliquid-mcp
   "mcpServers": {
     "hyperliquid": {
       "command": "npx",
-      "args": ["-y", "hyperliquid-mcp"]
+      "args": ["-y", "github:kitsune-de/hyperliquid-mcp"]
     }
   }
 }
