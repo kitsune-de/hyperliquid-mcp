@@ -12,6 +12,7 @@
     "ai-agent"
   ],
   "license": "MIT",
+  "mcpName": "io.github.kitsune-de/hyperliquid-mcp",
   "type": "module",
   "bin": {
     "hyperliquid-mcp": "dist/index.js"
